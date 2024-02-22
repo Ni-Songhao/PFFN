@@ -1,7 +1,7 @@
 # PFFN: Progressive Feature Fusion Network for Building Footprint Extraction Using Complex-Valued PolSAR Images
 This repo contains the codes for the paper: Progressive Feature Fusion Network for Building Footprint Extraction Using Complex-Valued PolSAR Images. 
 
-![architecture](C:\Users\shni\Desktop\PFFN\assets\architecture.png)
+![architecture](.\assets\architecture.png)
 
 ## Folder Structure
 
